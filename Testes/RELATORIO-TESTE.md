@@ -1,11 +1,10 @@
 Bruno Picorallo Palotta RM80790
 
-JUNIT
+#	JUNIT
 -------------------------------------------------------------------------
 class JulgamentoPrisioneiroTest {
 	
 	JulgamentoPrisioneiro JP = new JulgamentoPrisioneiro();
-
 	@Test
 	void testCalculaPenaMutua() {
 		int resultadoEsperado = 5;
@@ -35,9 +34,9 @@ class JulgamentoPrisioneiroTest {
 	}
 }
 
-Classe Arrumada
+#	Classe Arrumada
 --------------------------------------------------------------------------------------
-public class JulgamentoPrisioneiro {
+	public class JulgamentoPrisioneiro {
 	private int PENA_INOCENCIA = 0;
 	private int PENA_CONDENACAO_MUTUA = 5;
 	private int PENA_CONDENACAO_INDIVIDUAL = 10;
@@ -60,3 +59,11 @@ public class JulgamentoPrisioneiro {
 		}
 	}
 }
+1º Método
+Classe Resposta não existe
+2º Método
+Classe Resposta não existe
+3º Método
+Classe Resposta não existe
+4º Método
+Classe Resposta não existe
